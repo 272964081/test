@@ -1,0 +1,1 @@
+cat file //display content of file
